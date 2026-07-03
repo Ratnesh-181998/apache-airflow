@@ -5,26 +5,26 @@ Apache Airflow is an open-source platform used to programmatically author, sched
 
 - https://github.com/apache/airflow
 
-Python 
-workflow 
-data-science 
-machine-learning 
-airflow 
-automation 
-etl 
-workflow-engine 
-scheduler 
-apache 
-orchestration 
-data-engineering 
-data-integration 
-elt 
-data-pipelines 
-dag 
-apache-airflow
-mlops 
-workflow-orchestration 
-data-orchestrator
+- Python 
+- workflow 
+- data-science 
+- machine-learning 
+- airflow 
+- automation 
+- etl 
+- workflow-engine 
+- scheduler 
+- apache 
+- orchestration 
+- data-engineering 
+- data-integration 
+- elt 
+- data-pipelines 
+- dag 
+- apache-airflow
+- mlops 
+- workflow-orchestration 
+- data-orchestrator
 
 ---
 
